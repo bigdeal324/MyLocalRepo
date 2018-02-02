@@ -1,2 +1,3 @@
 testfile
-edtting testfile
+edtting testfile.
+Reset file2
